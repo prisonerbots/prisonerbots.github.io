@@ -3,7 +3,7 @@
   </a>
 
   <p align="center">
-    The source code of <a href="https://prisonerbots.github.io/">prisonerbots.github.io/</a>
+    The code of <a href="https://prisonerbots.github.io/">prisonerbots.github.io/</a>
 	<br />
   </p>
 </p>
